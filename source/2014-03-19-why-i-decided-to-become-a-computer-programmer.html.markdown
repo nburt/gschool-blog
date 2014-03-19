@@ -1,7 +1,7 @@
 ---
 title: Why I Decided to Become a Computer Programmer
 date: 2014-03-19 14:15 UTC
-tags:
+tags: computer programmer, language
 ---
 From an early age I have been obsessed with languages. My mom is a French professor at the University of California, Irvine so I grew up taking French classes with her, going to France most summers, and even living in Paris for a year in 8th grade.
 
@@ -12,11 +12,11 @@ Following college I landed a job at a translation company in Aurora, CO where I 
 Around September of last year I took a step back to reflect on my job and I discovered that there was a common theme among everything that I truly enjoyed doing. Whether it was translating a document, adding content to our website, or designing an ebook, landing pages, and calls-to-action, I was creating something. What I loved about my job was being able to finish something and directly see the impact of my work.
 
 I began thinking long and hard about where I was and realized that while I loved translation, I didn’t want to remain in the industry for the long-haul. There were several reasons for this:
-	<ul>
+	<ol>
 	  <li> There is not much demand for literary translation, which is what I enjoy most </li>
 	  <li> Working at a company would mean that I would have responsibilities outside of translation </li>
 	  <li> If I wanted to work as a full-time translator, I would likely have to become a freelancer (the majority of today’s professional translators are) </li>
-  </ul>
+  </ol>
 
 Knowing these things I began exploring other industries based on what I had come to realize I enjoyed most about my job, creating. After speaking with a friend who is a web developer, and first hearing about gSchool, I began taking some online classes to see if I would be interested in coding.
 
