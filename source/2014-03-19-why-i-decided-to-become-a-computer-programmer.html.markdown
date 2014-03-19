@@ -3,6 +3,17 @@ title: Why I Decided to Become a Computer Programmer
 date: 2014-03-19 14:15 UTC
 tags: computer programmer, language
 ---
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49126926-1', 'nathanaelburt.me');
+  ga('send', 'pageview');
+
+</script>
+
 From an early age I have been obsessed with languages. My mom is a French professor at the University of California, Irvine so I grew up taking French classes with her, going to France most summers, and even living in Paris for a year in 8th grade.
 
 Upon returning to the U.S., I continued to take French in high school and decided to pursue a Bachelor’s in Romance Languages at Colorado College. Through a class in translation my junior year I fell in love with translation, and in particular, literary texts. I loved researching cultural differences and coming to understand them, as well as coming up with creative ways to translate metaphors that would be understood by native French speakers. Due to that first class, I chose to translate Ray Bradbury’s Fahrenheit 451 into French for my senior thesis to pursue that passion.
