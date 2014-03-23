@@ -25,4 +25,4 @@ Anyways, we’ve done a lot, but here are a few of the biggest lessons that I ha
 </ol>
 
 As a last thought, here’s a photo from @JennyAllar with a couple of us gSchoolers enjoying the Flatirons during lunch.
-<img src = "/source/images/2_lunch_on_balcony.jpg" alt = "gSchoolers enjoying lunch in Boulder">
+<img src="../source/images/Blogs/2_lunch_on_balcony.jpg" alt="gSchoolers enjoying lunch in Boulder">

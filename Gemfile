@@ -13,3 +13,5 @@ gem "rack-contrib", "~> 1.1.0"
 
 gem "redcarpet", "~>3.0.0"
 gem "pygments.rb", "~> 0.5.4"
+
+ruby '2.1.1'
