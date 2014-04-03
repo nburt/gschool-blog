@@ -89,7 +89,7 @@ end
 ```
 4) You can now check out the app in your browser by typing `rerun rackup` in Terminal and pointing your browser to `http://localhost:9292` and you should see this:
 
-![Welcome to task manager homepage](/images/blogs/sinatra_task_manager/task_manager_part_2.png)
+![Welcome to task manager homepage](/images/task_manager_part_2.png)
 
 ###Part 3: Adding new tasks
 
@@ -174,7 +174,7 @@ Here, we’re iterating through each task in our `TASK_LIST` array, and printing
 
 7) Go to `http://localhost:9292` and add an item! I added “get milk”:
 
-![Added individual task of get milk](/images/blogs/sinatra_task_manager/task_manager_part_3.png)
+![Added individual task of get milk](/images/task_manager_part_3.png)
 
 ###Part 4: Viewing individual tasks
 
@@ -217,7 +217,7 @@ Here I’ve used locals to save a couple of variables so that I can access them 
 
 We’ll be using the `:id` variable when we get to editing and deleting tasks. When you click on the “Show Task” button, you should see this at the top of the page:
 
-![Can access individual item page](/images/blogs/sinatra_task_manager/task_manager_part_4.png)
+![Can access individual item page](/images/task_manager_part_4.png)
 
 ###Part 5: Editing existing tasks
 
@@ -271,7 +271,7 @@ What am I doing here? I’m basically saying this: “Hey array, find a task at 
 
 Finish all that and you’ll have this:
 
-![Can edit items on the individual item page](/images/blogs/sinatra_task_manager/task_manager_part_5.png)
+![Can edit items on the individual item page](/images/task_manager_part_5.png)
 
 ###Part 6: Delete old tasks
 
@@ -299,7 +299,7 @@ Again, you’ll notice that we have used the hidden input on the form.
 
 In the route we’ll call the `delete_at` method on our `TASK_LIST`. This method takes one parameter, an index, and will delete the task that is at that index. Using the `:id` from the page url (which is the index) we can delete the task.
 
-![Can delete items on the individual item page](/images/blogs/sinatra_task_manager/task_manager_part_6.png)
+![Can delete items on the individual item page](/images/task_manager_part_6.png)
 
 ###Next Steps
 
