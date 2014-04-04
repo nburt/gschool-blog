@@ -1,8 +1,8 @@
 xml.instruct!
-xml.feed "xmlns" => "http://www.nathanaelburt.me" do
+xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   xml.title "Nathanael Burt's blog"
-  xml.subtitle "Blog subtitle"
-  xml.id "http://blog.url.com/"
+  xml.subtitle " "
+  xml.id "http://www.nathanaelburt.me/"
   xml.link "href" => "http://www.nathanaelburt.me"
   xml.link "href" => "http://www.nathanaelburt.me/feed.xml", "rel" => "self"
   xml.updated blog.articles.first.date.to_time.iso8601
