@@ -4,7 +4,7 @@ xml.feed "xmlns" => "http://www.nathanaelburt.me" do
   xml.subtitle "Blog subtitle"
   xml.id "http://blog.url.com/"
   xml.link "href" => "http://www.nathanaelburt.me"
-  xml.link "href" => "http://www.nathanaelburt.me", "rel" => "self"
+  xml.link "href" => "http://www.nathanaelburt.me/feed.xml", "rel" => "self"
   xml.updated blog.articles.first.date.to_time.iso8601
   xml.author { xml.name "Nathanael Burt" }
 
