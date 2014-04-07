@@ -317,4 +317,4 @@ That’s the basic layout of the app but there are obviously many more things th
 
 Stay tuned for future blog posts on the above next steps.
 
-<strong>Update:</strong> I've added a new post that covers #1 from the above next steps. <a href="http://www.nathanaelburt.me/2014/04/07/sinatra-task-manager-part-2-extracting-a-class.html">Check it out here.</a>
+<strong>Update:</strong> I've added a new post that covers #1 from the above next steps. <a href="www.nathanaelburt.me/2014/04/07/sinatra-task-manager-part-2-extracting-a-class.html">Check it out here.</a>
