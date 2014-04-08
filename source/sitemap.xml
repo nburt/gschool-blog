@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <url>
+    <loc>http://www.nathanaelburt.me/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.nathanaelburt.me/2014/04/07/sinatra-task-manager-part-2-extracting-a-class.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.nathanaelburt.me/2014/04/02/creating-a-task-manager-with-sinatra.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.nathanaelburt.me/2014/03/23/my-first-three-weeks-at-gschool.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.nathanaelburt.me/2014/03/19/why-i-decided-to-become-a-computer-programmer.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.nathanaelburt.me/tags/computer-programmer.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.nathanaelburt.me/tags/language.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.nathanaelburt.me/tags/sinatra.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.nathanaelburt.me/tags/how-to.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.nathanaelburt.me/tags/gschool.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>
