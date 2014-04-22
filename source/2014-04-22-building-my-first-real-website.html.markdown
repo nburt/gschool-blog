@@ -1,7 +1,7 @@
 ---
 title: Building My First Real Website
 date: 2014-04-22 02:54 UTC
-tags:
+tags: Sinatra
 ---
 
 I haven’t been blogging as much as I would like the past few weeks since I’ve been spending most of my time working on my first website. Middleman is great for blogging but I wanted a site that fit my personality better and I wanted some features that Middleman didn’t have. I envisioned a site where I could have my blog (with commenting) and then also showcase my work with a portfolio page and resume. So, I started building it.
