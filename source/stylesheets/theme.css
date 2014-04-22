@@ -249,3 +249,7 @@ footer.row {
   border-top: solid 1px #DDD;
   padding: 4em 0px;
 }
+
+.list_items {
+  margin-left: 2em;
+}
